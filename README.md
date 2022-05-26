@@ -2,4 +2,4 @@
 
 Un servidor de Websockets usando Node, Express y Socket.io
 
-Temas cubiertos en mi curso de Node de cero a experto
+Turnero digital curso "Node: De cero a experto" en Udemy dictado por el Profeso: Fernando Herrera
